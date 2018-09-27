@@ -11,6 +11,8 @@ Issue: GNOME and individual applicationes freezes frequently after update.
 
 Solution: purge nvidia. && re-install amd/ati drivers non-free
 
-Time: 30 minutes
+Time: 60 minutes
+
+Impact: Never got to do any programming
 
 Status: Improved, but not  solved
