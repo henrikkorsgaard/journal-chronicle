@@ -1,5 +1,3 @@
-# journal-chronicle
-
 #### September 27, 2018 - 18.55
 OS: Linux Debian 9.
 
