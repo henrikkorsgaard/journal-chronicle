@@ -5,7 +5,7 @@ OS: Linux Debian 9.
 
 Machine:Intel Core i5-7500, 16Gb ram, AMD RX460 Grapics
 
-Task: Develop Linux Network library
+Task: Software development
 
 Issue: GNOME and individual applicationes freezes frequently after update.
 
@@ -13,6 +13,6 @@ Solution: purge nvidia. && re-install amd/ati drivers non-free
 
 Time: 60 minutes
 
-Impact: Never got to do any programming
+Impact: Not able to start task at the time
 
 Status: Improved, but not  solved
