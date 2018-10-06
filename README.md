@@ -7,10 +7,23 @@ Task: Software development
 
 Issue: GNOME and individual applicationes freezes frequently after update.
 
-Solution: purge nvidia. && re-install amd/ati drivers non-free
+Attempted solution: purge nvidia. && re-install amd/ati drivers non-free
 
 Time: 60 minutes
 
 Impact: Not able to start task at the time
 
 Status: Improved, but not  solved
+
+#### October 06, 2018 - 16.00
+OS / Machine: Playstation 4
+
+Task: Watch ViaPlay
+
+Issue: When starting ViaPlay application it only shows black screen
+
+Attempted solution: Restart Playstation 4
+
+Time: 5 minutes
+
+Status: Fixed
