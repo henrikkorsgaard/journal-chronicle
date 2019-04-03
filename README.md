@@ -17,6 +17,14 @@ Attempted solution: Restart Playstation 4
 Time: 5 minutes
 Status: Fixed
 
+#### April 4, 2019 - 12.00  
+OS / Machine: Mac OS X Mojave
+Task: Update
+Issue: After update I could not log in to my AU account
+Attempted solution: Move from WIFI til LAN connection
+Time: 10 minutes
+Status: Fixed
+
 #### April 4, 2019 - 19.55
 OS / Machine: Windows 10 Education
 Task: Listen to music
