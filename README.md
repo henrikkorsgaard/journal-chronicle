@@ -33,3 +33,12 @@ Attempted solution: Remove application and reinstall
 Time: 10 minutes
 Status: Fixed
 Side-effects: Password change require new login on all devices.
+
+#### April 5, 2019 - 11.54
+OS / Machine: Mac OS X Mojave
+Task: Writing
+Issue: iCLoud pop-up: problem with connecting to account
+Attempt: Dismiss (later)
+Time: 1 min
+
+
