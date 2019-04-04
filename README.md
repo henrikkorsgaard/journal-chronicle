@@ -32,4 +32,4 @@ Issue: Sporify fails silently repeatedly
 Attempted solution: Remove application and reinstall
 Time: 10 minutes
 Status: Fixed
-
+Side-effects: Password change require new login on all devices.
